@@ -1,3 +1,7 @@
+# Notes!!!!!!!!!
+
+Currently I'm so busy so I may won't do custom build tho. All requests may stalled
+
 # Kernel Build From RainyLand
 We provide some open build for some aosp gki / non-gki devices.
 
